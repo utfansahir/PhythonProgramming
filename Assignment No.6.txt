@@ -1,0 +1,74 @@
+Question 1:
+Define Object Oriented Programming Language?
+
+Ans: 
+
+Object-oriented programming (OOP) refers to a type of computer programming (software design) in which programmers define not only the data type of a data structure, but also the types of operations (functions) that can be applied to the data structure.
+
+Question 2:
+List down the Benefits of OOP?
+
+Ans: 
+ADVANTAGES OF OOP:
+
+There are many advantages of Object Orianted Programming as this is one of the core development approaches which is widely accepted. some of the advantages are given as under:
+
+1. Re-usability
+2. Data Redundancy
+3. Code Maintenance
+4. Easy troubleshooting
+5. Better productivity
+
+Re-usability:
+It means reusing some facilities rather than building it again and again. This is done with the use of a class. We can use it ‘n’ number of times as per our need.
+
+Data Redundancy:
+The data redundancy is one of the greatest advantages of OOP. If a user wants a similar functionality in multiple classes he/she can go ahead by writing common class definitions for the similar functionalities and inherit them.
+
+Code Maintenance:
+This feature is more of a necessity for any programming languages, it helps users from doing re-work in many ways. It is always easy and time-saving to maintain and modify the existing codes with incorporating new changes into it.
+
+Easy troubleshooting:
+This is the advantage of using encapsulation in OOP; all the objects are self-constrained. With this modality behavior, the IT teams get a lot of work benefits as they are now capable to work on multiple projects simultaneously with an advantage that there is no possibility of code duplicity.
+
+Better productivity:
+This leads to more work done, finish a better program, having more inbuilt features and easier to read, write and maintain. An OOP programmer cans stitch new software objects to make completely new programs. A good number of libraries with useful functions in abundance make it possible
+
+
+Question 3:
+Differentiate between function and method?
+
+Ans:
+A function is a piece of code that is called by name. It can be passed data to operate on (i.e. the parameters) and can optionally return data (the return value). All data that is passed to a function is explicitly passed.
+
+A method is a piece of code that is called by a name that is associated with an object. In most respects it is identical to a function except for two key differences:
+
+1. A method is implicitly passed the object on which it was called.
+2. A method is able to operate on data that is contained within the class (remembering that an object is an instance of a class - the class is the definition, the object is an instance of that data).
+
+
+Question 4:
+Define the following terms:
+1. Class
+2. Object
+3. Attribute
+4. Behavior
+
+Ans:
+
+Class:
+a class is a blueprint for creating objects (a particular data structure), providing initial values for state (member variables or attributes), and implementations of behavior (member functions or methods). The user-defined objects are created using the class keyword.
+
+Object:
+Objects are the things to think about first in designing a program and they are also the units of code that are eventually derived from the process. Each object is an instance of a particular class or subclass with the class's own methods or procedures and data variables.
+
+Attribute:
+Attributes are data stored inside a class or instance and represent the state or quality of the class or instance. ... One can think of attributes as noun or adjective, while methods are the verb of the class.
+
+Behavoir:
+A class's behavior determines how an instance of that class operates; for example, how it will "react" if asked to do something by another class or object or if its internal state changes. Behavior is the only way objects can do anything to themselves or have anything done to them
+
+Question 5:
+Write a code in python in which create a class named it Car which
+have 5 attributes such like (model, color and name etc.) and 3
+methods. And create 5 object instance from that class.
